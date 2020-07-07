@@ -1,0 +1,59 @@
+.cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: space-between;
+    height: 150px;
+    width: 130px;
+    font-size: 60px;
+    color: #000000;
+    position: relative;
+    background-color: #ffffff;
+    border-radius: 15px;
+    border: 1px solid #000000;
+}
+
+.abs-position {
+    position: absolute;
+}
+
+.is-selected{
+    border: 1px solid #d60002;
+    background-color: darkorange;
+}
+
+.black{
+    color: black;
+}
+
+.red{
+    color: #d60002;
+}
+
+.suit{
+    position: absolute;
+    left: 5px;
+    top: 0;
+    font-size: 30px;
+
+}
+
+.big-suit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.corner-number{
+    position: absolute;
+    left: 30px;
+    top: 0;
+    font-size: 30px;
+}
+
+.flipped-card{
+    background-image: url("card-back.png");
+    background-repeat: no-repeat;
+    width: 130px;
+    height: 150px;
+}

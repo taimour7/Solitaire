@@ -1,9 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff402fef-5474-4b39-b08a-2fb990fc62fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/taimour.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/card-back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cards/card-back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cards/card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/cards/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/timer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/solitaire-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aGHXNSjjpa8FAf4kLWBfo2dft6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/components/cards" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff402fef-5474-4b39-b08a-2fb990fc62fc" name="Default Changelist" comment="" />
+      <created>1586355048427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586355048427</updated>
+      <workItem from="1586355051727" duration="1142000" />
+      <workItem from="1586542737444" duration="1205000" />
+      <workItem from="1587010211792" duration="8223000" />
+      <workItem from="1587605310669" duration="11000" />
+      <workItem from="1587605343639" duration="161000" />
+      <workItem from="1588009937360" duration="232000" />
+      <workItem from="1588129089079" duration="227000" />
+      <workItem from="1588129424924" duration="1247000" />
+      <workItem from="1588131021364" duration="6297000" />
+      <workItem from="1588438109649" duration="3994000" />
+      <workItem from="1588819559841" duration="8577000" />
+      <workItem from="1588986776930" duration="124000" />
+      <workItem from="1589239956361" duration="10417000" />
+      <workItem from="1589597270473" duration="16940000" />
+      <workItem from="1589678679965" duration="27000" />
+      <workItem from="1589678746891" duration="2490000" />
+      <workItem from="1590551314777" duration="171000" />
+      <workItem from="1590613211285" duration="5506000" />
+      <workItem from="1590618896695" duration="1778000" />
+      <workItem from="1590621026899" duration="34000" />
+      <workItem from="1590621078934" duration="6251000" />
+      <workItem from="1591163633379" duration="40000" />
+      <workItem from="1591163767978" duration="565000" />
+      <workItem from="1591230120647" duration="97000" />
+      <workItem from="1591370919057" duration="877000" />
+      <workItem from="1591399795321" duration="210000" />
+      <workItem from="1591403684226" duration="28686000" />
+      <workItem from="1591987433553" duration="893000" />
+      <workItem from="1591988353045" duration="2418000" />
+      <workItem from="1591997271788" duration="19991000" />
+      <workItem from="1592165601459" duration="5089000" />
+      <workItem from="1592256758039" duration="1196000" />
+      <workItem from="1592519157800" duration="608000" />
+      <workItem from="1593368951707" duration="168000" />
+      <workItem from="1593470584412" duration="82000" />
+      <workItem from="1594085178894" duration="478000" />
+      <workItem from="1594086738096" duration="403000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="816" y="160" key="#ESLint" timestamp="1587168452903">
+      <screen x="0" y="23" width="1680" height="942" />
+    </state>
+    <state x="816" y="160" key="#ESLint/0.23.1680.942@0.23.1680.942" timestamp="1587168452903" />
+    <state x="816" y="160" key="#ESLint/0.23.1680.945@0.23.1680.945" timestamp="1586542955643" />
+    <state x="907" y="302" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589555473656">
+      <screen x="0" y="23" width="1680" height="939" />
+    </state>
+    <state x="907" y="302" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.939@0.23.1680.939" timestamp="1589555473656" />
+    <state x="578" y="246" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592005426355">
+      <screen x="0" y="23" width="1680" height="939" />
+    </state>
+    <state x="578" y="246" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.939@0.23.1680.939" timestamp="1592005426355" />
+    <state width="757" height="251" key="GridCell.Tab.0.bottom" timestamp="1592165597831">
+      <screen x="0" y="23" width="1680" height="939" />
+    </state>
+    <state width="757" height="251" key="GridCell.Tab.0.bottom/0.23.1680.939@0.23.1680.939" timestamp="1592165597831" />
+    <state width="972" height="251" key="GridCell.Tab.0.bottom/0.23.1680.942@0.23.1680.942" timestamp="1590618879626" />
+    <state width="757" height="251" key="GridCell.Tab.0.center" timestamp="1592165597830">
+      <screen x="0" y="23" width="1680" height="939" />
+    </state>
+    <state width="757" height="251" key="GridCell.Tab.0.center/0.23.1680.939@0.23.1680.939" timestamp="1592165597830" />
+    <state width="972" height="251" key="GridCell.Tab.0.center/0.23.1680.942@0.23.1680.942" timestamp="1590618879626" />
+    <state width="757" height="251" key="GridCell.Tab.0.left" timestamp="1592165597829">
+      <screen x="0" y="23" width="1680" height="939" />
+    </state>
+    <state width="757" height="251" key="GridCell.Tab.0.left/0.23.1680.939@0.23.1680.939" timestamp="1592165597829" />
+    <state width="972" height="251" key="GridCell.Tab.0.left/0.23.1680.942@0.23.1680.942" timestamp="1590618879625" />
+    <state width="757" height="251" key="GridCell.Tab.0.right" timestamp="1592165597830">
+      <screen x="0" y="23" width="1680" height="939" />
+    </state>
+    <state width="757" height="251" key="GridCell.Tab.0.right/0.23.1680.939@0.23.1680.939" timestamp="1592165597830" />
+    <state width="972" height="251" key="GridCell.Tab.0.right/0.23.1680.942@0.23.1680.942" timestamp="1590618879626" />
+    <state x="774" y="171" key="Vcs.Push.Dialog.v2" timestamp="1594085289109">
+      <screen x="0" y="23" width="1680" height="939" />
+    </state>
+    <state x="774" y="171" key="Vcs.Push.Dialog.v2/0.23.1680.939@0.23.1680.939" timestamp="1594085289109" />
+    <state x="463" y="110" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1592157673513">
+      <screen x="0" y="23" width="1680" height="939" />
+    </state>
+    <state x="463" y="110" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1680.939@0.23.1680.939" timestamp="1592157673513" />
+    <state x="768" y="228" width="670" height="676" key="search.everywhere.popup" timestamp="1590615002388">
+      <screen x="0" y="23" width="1680" height="939" />
+    </state>
+    <state x="768" y="228" width="670" height="676" key="search.everywhere.popup/0.23.1680.939@0.23.1680.939" timestamp="1590615002388" />
   </component>
 </project>

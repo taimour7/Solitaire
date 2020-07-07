@@ -1,38 +1,144 @@
-.App {
-  text-align: center;
+.sg-container{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    font-size: 20px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.title-card{
+    background-image: url("solitaire-logo.png");
+    width: 632px;
+    height:414px
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.name-input{
+    margin-bottom: 10px;
+    height: 30px;
+    font-size: 20px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.buttons{
+    height: 50px;
+    width: 300px;
+    background-color: rgba(0, 128, 0, 0.29);
+    font-size: 1em;
+    outline: 1px solid #000000;
 }
 
-.App-link {
-  color: #61dafb;
+.buttons:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.author{
+    margin-top: 150px
+}
+
+.parent{
+    position: relative;
+    height:1000px;
+    width: 1375px;
+}
+
+.reset-info{
+    display: flex;
+    position: absolute;
+    top: 10px;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-end;
+    margin-left: 100px;
+}
+
+.input-name{
+    display: flex;
+    align-items: center;
+    font-size: 35px;
+    width: 310px;
+    height: 50px;
+    background-color: white;
+    justify-content: center;
+    border: 1px solid #000000;
+    border-radius: 15px;
+}
+
+.timer{
+    display: flex;
+    align-items: center;
+    font-size: 35px;
+    width:120px;
+    height: 50px;
+    background-color: white;
+    justify-content: center;
+    border: 1px solid #000000;
+    margin-left: 10px;
+    border-radius: 15px;
+}
+
+.reset-button{
+    display: flex;
+    justify-content: center;
+    width: 320px;
+    top: 10px;
+    margin-left: 460px;
+    font-size: 35px;
+    border-radius: 15px;
+    border: 1px solid #000000;
+    outline: none;
+}
+
+.dealer-container{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 50px;
+}
+
+.next-card{
+    display:flex;
+    margin-top: 80px;
+    margin-left: 100px;
+    height: 150px;
+    width: 130px;
+    background-image: url("card-back.png");
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    outline: none;
+}
+
+.next-card:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+.dealer{
+    display:flex;
+    height: 150px;
+    width: 130px;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+
+.home-container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 80px;
+    margin-left: auto;
+}
+
+.dealt-cards{
+    display:flex;
+    position: absolute;
+    margin-left: 100px;
+
+}
+.column{
+    width: 130px;
+    height: 150px;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin-right: 50px;
 }
